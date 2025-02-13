@@ -1,3 +1,5 @@
 START PROJECT
 
 Step 1 to add a new feature
+
+Step 2 to add a new feature
